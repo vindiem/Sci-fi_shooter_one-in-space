@@ -1,0 +1,1133 @@
+﻿++Solution 'Sci-fi shooter' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:Sci-fi shooter.sln
+++Assembly-CSharp-Editor
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp-Editor
+++References
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Assets
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\assets\
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\
+++Assembly-CSharp
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++log4netPlastic
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Microsoft.CSharp
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Microsoft.Win32.Primitives
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++mscorlib
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++netstandard
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++nunit.framework
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.AppContext
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Collections
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Collections.Concurrent
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Collections.NonGeneric
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Collections.Specialized
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ComponentModel
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ComponentModel.Annotations
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ComponentModel.EventBasedAsync
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ComponentModel.Primitives
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ComponentModel.TypeConverter
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Console
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Core
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Data
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Data.Common
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Diagnostics.Contracts
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Diagnostics.Debug
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Diagnostics.FileVersionInfo
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Diagnostics.Process
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Diagnostics.StackTrace
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Diagnostics.TextWriterTraceListener
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Diagnostics.Tools
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Diagnostics.TraceSource
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Drawing.Primitives
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Dynamic.Runtime
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Globalization
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Globalization.Calendars
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Globalization.Extensions
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO.Compression
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO.Compression.ZipFile
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO.FileSystem
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO.FileSystem.DriveInfo
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO.FileSystem.Primitives
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO.FileSystem.Watcher
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO.IsolatedStorage
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO.MemoryMappedFiles
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO.Pipes
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.IO.UnmanagedMemoryStream
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Linq
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Linq.Expressions
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Linq.Parallel
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Linq.Queryable
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.Http
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.Http.Rtc
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.NameResolution
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.NetworkInformation
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.Ping
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.Primitives
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.Requests
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.Security
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.Sockets
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.WebHeaderCollection
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.WebSockets
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Net.WebSockets.Client
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Numerics
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Numerics.Vectors
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ObjectModel
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Reflection
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Reflection.Emit
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Reflection.Emit.ILGeneration
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Reflection.Emit.Lightweight
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Reflection.Extensions
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Reflection.Primitives
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Resources.Reader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Resources.ResourceManager
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Resources.Writer
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.CompilerServices.VisualC
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.Extensions
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.Handles
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.InteropServices
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.InteropServices.RuntimeInformation
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.InteropServices.WindowsRuntime
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.Numerics
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.Serialization
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.Serialization.Formatters
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.Serialization.Json
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.Serialization.Primitives
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Runtime.Serialization.Xml
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Security.Claims
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Security.Cryptography.Algorithms
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Security.Cryptography.Csp
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Security.Cryptography.Encoding
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Security.Cryptography.Primitives
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Security.Cryptography.X509Certificates
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Security.Principal
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Security.SecureString
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ServiceModel.Duplex
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ServiceModel.Http
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ServiceModel.NetTcp
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ServiceModel.Primitives
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ServiceModel.Security
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Text.Encoding
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Text.Encoding.Extensions
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Text.RegularExpressions
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Threading
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Threading.Overlapped
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Threading.Tasks
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Threading.Tasks.Parallel
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Threading.Thread
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Threading.ThreadPool
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Threading.Timer
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.ValueTuple
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Xml
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Xml.Linq
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Xml.ReaderWriter
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Xml.XDocument
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Xml.XmlDocument
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Xml.XmlSerializer
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Xml.XPath
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++System.Xml.XPath.XDocument
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Unity.Plastic.Antlr3.Runtime
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Unity.Plastic.Newtonsoft.Json
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Unity.PlasticSCM.Editor
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Unity.Rider.Editor
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Unity.TextMeshPro
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Unity.TextMeshPro.Editor
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Unity.Timeline
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Unity.Timeline.Editor
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Unity.VisualStudio.Editor
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++Unity.VSCode.Editor
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.Android.Extensions
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.CoreModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.Graphs
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.GraphViewModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.PackageManagerUIModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.SceneTemplateModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.TestRunner
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.UI
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.UIElementsModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.UIElementsSamplesModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.UIServiceModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.UnityConnectModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.UWP.Extensions
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEditor.WindowsStandalone.Extensions
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.AccessibilityModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.AIModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.AndroidJNIModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.AnimationModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.ARModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.AssetBundleModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.AudioModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.ClothModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.ClusterInputModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.ClusterRendererModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.CoreModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.CrashReportingModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.DirectorModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.DSPGraphModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.GameCenterModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.GIModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.GridModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.HotReloadModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.ImageConversionModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.IMGUIModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.InputLegacyModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.InputModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.JSONSerializeModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.LocalizationModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.ParticleSystemModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.PerformanceReportingModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.Physics2DModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.PhysicsModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.ProfilerModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.ScreenCaptureModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.SharedInternalsModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.SpriteMaskModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.SpriteShapeModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.StreamingModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.SubstanceModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.SubsystemsModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.TerrainModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.TerrainPhysicsModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.TestRunner
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.TextCoreModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.TextRenderingModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.TilemapModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.TLSModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UI
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UIElementsModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UIElementsNativeModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UIModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UmbraModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UNETModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UnityAnalyticsModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UnityConnectModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UnityCurlModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UnityTestProtocolModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UnityWebRequestAssetBundleModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UnityWebRequestAudioModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UnityWebRequestModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UnityWebRequestTextureModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.UnityWebRequestWWWModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.VehiclesModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.VFXModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.VideoModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.VirtualTexturingModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.VRModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.WindModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++UnityEngine.XRModule
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++unityplastic
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:
+++_Scenes
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\
+++gunCharacters
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\guncharacters\
+++Standard Assets
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\
+++WarFX
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\
+++Editor
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\editor\
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\editor\
+++CrossPlatformInput
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\editor\crossplatforminput\
+++Water
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\editor\water\
+++CFX_SpawnSystemEditor.cs
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\editor\cfx_spawnsystemeditor.cs
+++CrossPlatformInputInitialize.cs
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\editor\crossplatforminput\crossplatforminputinitialize.cs
+++Water4
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water4\
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\editor\water\water4\
+++GerstnerDisplaceEditor.cs
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\editor\water\water4\gerstnerdisplaceeditor.cs
+++PlanarReflectionEditor.cs
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\editor\water\water4\planarreflectioneditor.cs
+++SpecularLightingEditor.cs
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\editor\water\water4\specularlightingeditor.cs
+++WaterBaseEditor.cs
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\editor\water\water4\waterbaseeditor.cs
+++WaterEditorUtility.cs
+i:{51b61961-27dc-88e9-b392-1242af174c1d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\editor\water\water4\watereditorutility.cs
+++Scripts
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\menu\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\2d\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\firstpersoncharacter\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\rollerball\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\thirdpersoncharacter\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water (basic)\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\scripts\
+++Enemy
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\enemy\
+++Enemy.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\enemy\enemy.cs
+++mainEnemy.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\enemy\mainenemy.cs
+++Menu
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\menu\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\menu\
+++Menu.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\menu\menu.cs
+++Quality.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\menu\quality.cs
+++Resolution.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\menu\resolution.cs
+++Triggers
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\triggers\
+++doorTrigger.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\triggers\doortrigger.cs
+++triggerRB.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\triggers\triggerrb.cs
+++Turret
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\turret\
+++BaseProjectile.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\turret\baseprojectile.cs
+++NormalProjectile.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\turret\normalprojectile.cs
+++ProjectileScript.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\turret\projectilescript.cs
+++ShootingSystem.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\turret\shootingsystem.cs
+++TrackingSystem.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\turret\trackingsystem.cs
+++TurretScript.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\turret\turretscript.cs
+++FPS.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\fps.cs
+++robot.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\robot.cs
+++Weapon.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\weapon.cs
+++SampleScenes
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\
+++_Effects
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\_effects\
+++_Effects (Mobile)
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\_effects (mobile)\
+++Demo
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\
+++Shaders
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\prototyping\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\glassrefraction\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\projectors\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\tessellationshaders\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\toonshading\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water (basic)\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\shaders\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water4\shaders\
+++Spawn System
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\spawn system\
+++2D
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\2d\
+++Cameras
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\
+++Characters
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\
+++Effects
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\
+++Environment
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\
+++Fonts
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\fonts\
+++ParticleSystems
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\
+++Prototyping
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\prototyping\
+++Utility
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\
+++Vehicles
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\
+++MuzzleFlashes
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\_effects\muzzleflashes\
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\_effects (mobile)\muzzleflashes\
+++CFX_AutoDestructShuriken.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\scripts\cfx_autodestructshuriken.cs
+++CFX_LightIntensityFade.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\scripts\cfx_lightintensityfade.cs
+++WFX_BulletHoleDecal.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\scripts\wfx_bulletholedecal.cs
+++WFX_LightFlicker.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\scripts\wfx_lightflicker.cs
+++WFX_S Add Scroll.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s add scroll.shader
+++WFX_S Alpha-Diffuse TintColor.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s alpha-diffuse tintcolor.shader
+++WFX_S Alpha-Specular TintColor.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s alpha-specular tintcolor.shader
+++WFX_S AlphaBlend NoSoftParticles.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s alphablend nosoftparticles.shader
+++WFX_S AlphaBlend Scroll.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s alphablend scroll.shader
+++WFX_S Multiply Soft Scroll.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s multiply soft scroll.shader
+++WFX_S Multiply Soft.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s multiply soft.shader
+++WFX_S Particle Add A8.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s particle add a8.shader
+++WFX_S Particle AddSoft A8.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s particle addsoft a8.shader
+++WFX_S Particle Multiply A8.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s particle multiply a8.shader
+++WFX_S Smoke Scroll.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\shaders\wfx_s smoke scroll.shader
+++CFX_SpawnSystem.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\spawn system\cfx_spawnsystem.cs
+++CameraSwitch.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\scripts\cameraswitch.cs
+++LevelReset.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\scripts\levelreset.cs
+++ParticleSceneControls.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\scripts\particlescenecontrols.cs
+++PlaceTargetWithMouse.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\scripts\placetargetwithmouse.cs
+++SlowMoButton.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\scripts\slowmobutton.cs
+++Skybox-Procedural.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\shaders\skybox-procedural.shader
+++CameraGuidelines.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\cameraguidelines.txt
+++FirstPersonCharacter
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\firstpersoncharacter\
+++RollerBall
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\rollerball\
+++ThirdPersonCharacter
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\thirdpersoncharacter\
+++CrossPlatformInputGuidelines.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\crossplatforminputguidelines.txt
+++GlassRefraction
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\glassrefraction\
+++ImageEffects
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\imageeffects\
+++Projectors
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\projectors\
+++TessellationShaders
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\tessellationshaders\
+++ToonShading
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\toonshading\
+++Water (Basic)
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water (basic)\
+++OpenSans
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\fonts\opensans\
+++ParticleSystemsGuidelines.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\particlesystemsguidelines.txt
+++ActivateTrigger.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\activatetrigger.cs
+++AlphaButtonClickMask.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\alphabuttonclickmask.cs
+++AutoMobileShaderSwitch.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\automobileshaderswitch.cs
+++AutoMoveAndRotate.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\automoveandrotate.cs
+++CameraRefocus.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\camerarefocus.cs
+++CurveControlledBob.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\curvecontrolledbob.cs
+++DragRigidbody.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\dragrigidbody.cs
+++DynamicShadowSettings.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\dynamicshadowsettings.cs
+++EventSystemChecker.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\eventsystemchecker.cs
+++FollowTarget.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\followtarget.cs
+++ForcedReset.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\forcedreset.cs
+++FOVKick.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\fovkick.cs
+++FPSCounter.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\fpscounter.cs
+++LerpControlledBob.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\lerpcontrolledbob.cs
+++ObjectResetter.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\objectresetter.cs
+++ParticleSystemDestroyer.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\particlesystemdestroyer.cs
+++PlatformSpecificContent.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\platformspecificcontent.cs
+++SimpleActivatorMenu.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\simpleactivatormenu.cs
+++SimpleMouseRotator.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\simplemouserotator.cs
+++SmoothFollow.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\smoothfollow.cs
+++TimedObjectActivator.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\timedobjectactivator.cs
+++TimedObjectDestructor.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\timedobjectdestructor.cs
+++WaypointCircuit.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\waypointcircuit.cs
+++WaypointProgressTracker.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\utility\waypointprogresstracker.cs
+++Aircraft
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\
+++Car
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\
+++!MuzzleFlash Differences.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\_effects\muzzleflashes\!muzzleflash differences.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\_effects (mobile)\muzzleflashes\!muzzleflash differences.txt
+++CFX_AutoStopLoopedEffect.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\assets\cfx_autostoploopedeffect.cs
+++CFX_Demo_RandomDir.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\assets\cfx_demo_randomdir.cs
+++CFX_Demo_RotateCamera.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\assets\cfx_demo_rotatecamera.cs
+++CFX_Demo_Translate.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\assets\cfx_demo_translate.cs
+++WFX_Demo.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\assets\wfx_demo.cs
+++WFX_Demo_DeleteAfterDelay.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\assets\wfx_demo_deleteafterdelay.cs
+++WFX_Demo_New.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\assets\wfx_demo_new.cs
+++WFX_Demo_RandomDir.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\assets\wfx_demo_randomdir.cs
+++WFX_Demo_Wall.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\warfx\demo\assets\wfx_demo_wall.cs
+++MenuSceneLoader.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\menu\scripts\menusceneloader.cs
+++PauseMenu.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\menu\scripts\pausemenu.cs
+++SceneAndURLLoader.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\samplescenes\menu\scripts\sceneandurlloader.cs
+++Camera2DFollow.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\2d\scripts\camera2dfollow.cs
+++CameraFollow.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\2d\scripts\camerafollow.cs
+++Platformer2DUserControl.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\2d\scripts\platformer2dusercontrol.cs
+++PlatformerCharacter2D.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\2d\scripts\platformercharacter2d.cs
+++Restarter.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\2d\scripts\restarter.cs
+++AbstractTargetFollower.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\scripts\abstracttargetfollower.cs
+++AutoCam.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\scripts\autocam.cs
+++FreeLookCam.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\scripts\freelookcam.cs
+++HandHeldCam.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\scripts\handheldcam.cs
+++LookatTarget.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\scripts\lookattarget.cs
+++PivotBasedCameraRig.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\scripts\pivotbasedcamerarig.cs
+++ProtectCameraFromWallClip.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\scripts\protectcamerafromwallclip.cs
+++TargetFieldOfView.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\cameras\scripts\targetfieldofview.cs
+++FirstPersonCharacterGuidelines.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\firstpersoncharacter\firstpersoncharacterguidelines.txt
+++RollerBallGuidelines.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\rollerball\rollerballguidelines.txt
+++ThirdPersonCharacterGuidelines.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\thirdpersoncharacter\thirdpersoncharacterguidelines.txt
+++PlatformSpecific
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\platformspecific\
+++AxisTouchButton.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\axistouchbutton.cs
+++ButtonHandler.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\buttonhandler.cs
+++CrossPlatformInputManager.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\crossplatforminputmanager.cs
+++InputAxisScrollbar.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\inputaxisscrollbar.cs
+++Joystick.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\joystick.cs
+++MobileControlRig.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\mobilecontrolrig.cs
+++TiltInput.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\tiltinput.cs
+++TouchPad.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\touchpad.cs
+++VirtualInput.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\virtualinput.cs
+++Readme.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\imageeffects\readme.txt
+++Guidelines.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\projectors\guidelines.txt
+++License!.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\fonts\opensans\license!.txt
+++AfterburnerPhysicsForce.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\afterburnerphysicsforce.cs
+++ExplosionFireAndDebris.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\explosionfireanddebris.cs
+++ExplosionPhysicsForce.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\explosionphysicsforce.cs
+++Explosive.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\explosive.cs
+++ExtinguishableParticleSystem.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\extinguishableparticlesystem.cs
+++FireLight.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\firelight.cs
+++Hose.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\hose.cs
+++ParticleSystemMultiplier.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\particlesystemmultiplier.cs
+++SmokeParticles.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\smokeparticles.cs
+++WaterHoseParticles.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\scripts\waterhoseparticles.cs
+++PriorityParticleAdd.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\shaders\priorityparticleadd.shader
+++PriorityParticleAddSoft.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\shaders\priorityparticleaddsoft.shader
+++PriorityParticleAlpha.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\particlesystems\shaders\priorityparticlealpha.shader
+++WorldCoordDiffuse.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\prototyping\shaders\worldcoorddiffuse.shader
+++AircraftGuidelines.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\aircraftguidelines.txt
+++CarGuidelines.txt
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\carguidelines.txt
+++FirstPersonController.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\firstpersoncharacter\scripts\firstpersoncontroller.cs
+++HeadBob.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\firstpersoncharacter\scripts\headbob.cs
+++MouseLook.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\firstpersoncharacter\scripts\mouselook.cs
+++RigidbodyFirstPersonController.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\firstpersoncharacter\scripts\rigidbodyfirstpersoncontroller.cs
+++Ball.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\rollerball\scripts\ball.cs
+++BallUserControl.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\rollerball\scripts\ballusercontrol.cs
+++AICharacterControl.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\thirdpersoncharacter\scripts\aicharactercontrol.cs
+++ThirdPersonCharacter.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\thirdpersoncharacter\scripts\thirdpersoncharacter.cs
+++ThirdPersonUserControl.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\characters\thirdpersoncharacter\scripts\thirdpersonusercontrol.cs
+++MobileInput.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\platformspecific\mobileinput.cs
+++StandaloneInput.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\crossplatforminput\scripts\platformspecific\standaloneinput.cs
+++GlassStainedBumpDistort.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\glassrefraction\shaders\glassstainedbumpdistort.shader
+++ProjectorLight.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\projectors\shaders\projectorlight.shader
+++ProjectorMultiply.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\projectors\shaders\projectormultiply.shader
+++BumpedSpecularDisplacement.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\tessellationshaders\shaders\bumpedspeculardisplacement.shader
+++BumpedSpecularSmooth.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\tessellationshaders\shaders\bumpedspecularsmooth.shader
+++ToonBasic.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\toonshading\shaders\toonbasic.shader
+++ToonBasicOutline.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\toonshading\shaders\toonbasicoutline.shader
+++ToonLit.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\toonshading\shaders\toonlit.shader
+++ToonLitOutline.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\effects\toonshading\shaders\toonlitoutline.shader
+++WaterBasic.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water (basic)\scripts\waterbasic.cs
+++FXWaterBasic.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water (basic)\shaders\fxwaterbasic.shader
+++AeroplaneAiControl.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\scripts\aeroplaneaicontrol.cs
+++AeroplaneAudio.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\scripts\aeroplaneaudio.cs
+++AeroplaneController.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\scripts\aeroplanecontroller.cs
+++AeroplaneControlSurfaceAnimator.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\scripts\aeroplanecontrolsurfaceanimator.cs
+++AeroplanePropellerAnimator.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\scripts\aeroplanepropelleranimator.cs
+++AeroplaneUserControl2Axis.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\scripts\aeroplaneusercontrol2axis.cs
+++AeroplaneUserControl4Axis.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\scripts\aeroplaneusercontrol4axis.cs
+++JetParticleEffect.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\scripts\jetparticleeffect.cs
+++LandingGear.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\aircraft\scripts\landinggear.cs
+++BrakeLight.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\brakelight.cs
+++CarAIControl.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\caraicontrol.cs
+++CarAudio.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\caraudio.cs
+++CarController.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\carcontroller.cs
+++CarSelfRighting.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\carselfrighting.cs
+++CarUserControl.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\carusercontrol.cs
+++Mudguard.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\mudguard.cs
+++SkidTrail.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\skidtrail.cs
+++Suspension.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\suspension.cs
+++WheelEffects.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\scripts\wheeleffects.cs
+++DiffuseReflectiveShader.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\shaders\diffusereflectiveshader.shader
+++ReflectiveDiffuseSpec.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\shaders\reflectivediffusespec.shader
+++ReflectiveDiffuseSpecTransp.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\vehicles\car\shaders\reflectivediffusespectransp.shader
+++Displace.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\scripts\displace.cs
+++GerstnerDisplace.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\scripts\gerstnerdisplace.cs
+++MeshContainer.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\scripts\meshcontainer.cs
+++PlanarReflection.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\scripts\planarreflection.cs
+++SpecularLighting.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\scripts\specularlighting.cs
+++Water.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\scripts\water.cs
+++WaterBase.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\scripts\waterbase.cs
+++WaterTile.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\scripts\watertile.cs
+++FXWaterPro.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water\shaders\fxwaterpro.shader
+++FXWater4Advanced.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water4\shaders\fxwater4advanced.shader
+++FXWater4Simple.shader
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water4\shaders\fxwater4simple.shader
+++WaterInclude.cginc
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\_scenes\standard assets\environment\water\water4\shaders\waterinclude.cginc
+++Assembly-CSharp (unloaded)
+++Solution 'Sci-fi shooter' ‎(1 of 2 projects)
+++door.cs
+i:{aa4532b1-f2f7-b31a-c4ae-6aaf2d6cd83d}:d:\work()\sci-fi shooter\assets\guncharacters\scripts\door.cs
