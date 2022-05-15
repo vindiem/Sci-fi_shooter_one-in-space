@@ -9,6 +9,6 @@ public class Quality : MonoBehaviour
 
     public void checkdropdown()
     {
-        QualitySettings.SetQualityLevel(dropdown.value, true); //Изменяем уровен графики
+        QualitySettings.SetQualityLevel(dropdown.value, true);
     }
 }

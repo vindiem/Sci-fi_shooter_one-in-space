@@ -184,6 +184,7 @@
     <Compile Include="Assets\_Scenes\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
     <Compile Include="Assets\_Scenes\Standard Assets\Cameras\Scripts\LookatTarget.cs" />
     <Compile Include="Assets\_Scenes\Standard Assets\Vehicles\Car\Scripts\CarAudio.cs" />
+    <Compile Include="Assets\gunCharacters\_Scripts\playerMove.cs" />
     <Compile Include="Assets\_Scenes\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
     <Compile Include="Assets\_Scenes\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
     <Compile Include="Assets\gunCharacters\WarFX\Demo\Assets\WFX_Demo_New.cs" />
@@ -193,7 +194,7 @@
     <Compile Include="Assets\_Scenes\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
     <Compile Include="Assets\_Scenes\Standard Assets\Utility\FPSCounter.cs" />
     <Compile Include="Assets\_Scenes\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-    <Compile Include="Assets\gunCharacters\_Scripts\playerMove.cs" />
+    <Compile Include="Assets\env\Rin\Demo\Scripts\UIManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\_Scenes\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
@@ -201,6 +202,7 @@
     <None Include="Assets\_Scenes\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
     <None Include="Assets\gunCharacters\WarFX\Shaders\WFX_S Multiply Soft Scroll.shader" />
     <None Include="Assets\_Scenes\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
+    <None Include="Assets\env\Rin\Advance Unlit Shader\Advance Unlit.shader" />
     <None Include="Assets\_Scenes\Standard Assets\Effects\Projectors\Guidelines.txt" />
     <None Include="Assets\gunCharacters\WarFX\_Effects\MuzzleFlashes\!MuzzleFlash Differences.txt" />
     <None Include="Assets\_Scenes\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
